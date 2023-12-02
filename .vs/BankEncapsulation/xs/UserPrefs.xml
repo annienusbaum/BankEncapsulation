@@ -1,29 +1,22 @@
 ﻿<Properties StartupConfiguration="{C9AA4433-8BA8-40A9-8339-52A36F388320}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.BankEncapsulation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BankEncapsulation/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankEncapsulation/BankAccount.cs">
     <Files>
-      <File FileName="BankEncapsulation/Program.cs" Line="13" Column="1" />
-      <File FileName="BankEncapsulation/BankAccount.cs" Line="12" Column="23" />
+      <File FileName="BankEncapsulation/Program.cs" Line="29" Column="15" />
+      <File FileName="BankEncapsulation/BankAccount.cs" Line="25" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BankEncapsulation">
-            <Node name="BankEncapsulation">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-              </Node>
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="BankEncapsulation" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
